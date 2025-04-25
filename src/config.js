@@ -1,34 +1,34 @@
 module.exports = {
-  siteTitle: 'Yashita Namdeo',
+  siteTitle: 'Rahul Singh',
   siteDescription:
-    'Yashita Namdeo is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
+    'Rahul Singh is an experienced Engineering Leader with a passion for building scalable and efficient systems.',
   siteKeywords:
-    'Yashita Namdeo, Yashita, Namdeo, yashitanamdeo, software engineer, web developer, javascript, python, java, svvv, indore',
-  siteUrl: 'https://yashitanamdeo.github.io/',
+    'Rahul Singh, Rahul, Singh, rahulsingh, software engineer, web developer, javascript, python, java, svvv, seattle',
+  siteUrl: 'https://github.com/01rahulsingh86',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Yashita Namdeo',
-  location: 'Indore, India',
-  email: 'yashita.namdeo2000@gmail.com',
-  github: 'https://github.com/yashitanamdeo',
+  name: 'Rahul Singh',
+  location: 'Seattle, US',
+  email: 'techmr.singh@gmail.com',
+  github: 'https://github.com/01rahulsingh86',
   twitterHandle: '@',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/yashitanamdeo',
+      url: 'https://github.com/01rahulsingh86',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/yashitanamdeo/',
+      url: 'https://www.linkedin.com/in/rahuls01/',
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/yashitanamdeo',
+      url: 'https://codepen.io/',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/yashitanamdeo',
+      url: 'https://www.instagram.com/',
     },
     {
       name: 'Twitter',

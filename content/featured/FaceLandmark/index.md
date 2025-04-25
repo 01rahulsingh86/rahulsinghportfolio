@@ -1,15 +1,15 @@
 ---
 date: '4'
-title: 'AI Face Landmark Detection'
-cover: 'face-landmark.png'
-github: 'https://github.com/yashitanamdeo/face-landmark-detection'
-external: 'https://yashitanamdeo.github.io/face-landmark-detection/'
+title: 'BIN Lookup Service'
+cover: 'demo2.png'
 tech:
-  - TensorFlow.JS
-  - React
+  - Java
+  - Postman
+  - SOAP/JSON
+  - Kibana
 showInProjects: true
 ---
 
-Facial landmark recognition allows you to detect a number of different points on your face that together make up your eyes, mouth, ears, nose and so on.
-
-Inspired by Nicholas Renotte's [Youtube Tutorial](https://www.youtube.com/watch?v=7lXYGDVHUNw).
+Delivered QA for the BIN Lookup API used by global fintech partners.
+Improved latency by 20% and reduced false positives in card classification.
+Built automated test suites and real-time API health dashboards for internal and partner-facing reliability.

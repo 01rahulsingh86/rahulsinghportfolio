@@ -1,18 +1,18 @@
 ---
 date: '1'
-title: 'Covid-19 Tracker'
+title: 'TikTok Seller Account Dashboard'
 cover: 'demo1.png'
-github: 'https://github.com/yashitanamdeo/Covid19-tracker'
-external: 'https://covid19-tracker-84ef4.web.app/'
+external: 'https://seller-us-accounts.tiktok.com/'
 tech:
-  - ReactJS
-  - Firebase
-  - Material UI
+  - React
+  - Redux
+  - Python (Backend)
+  - ElasticSearch
+company: 'TikTok'
 
 showInProjects: true
 ---
 
-Designed and implemented React-based Web Application to monitor live corona cases, recoveries, and
-deaths(clickable tabs) in 180+ countries worldwide. Directed to display 2 features – worldwide cases and countries based report; clickable markers on the map to show country stats and line chart for fluctuations over days, on hover, gives exact figures.
-
-Inspired by Clever Programmer's [Youtube Channel](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ).
+QA lead for the Seller Account Dashboard used by TikTok merchants across the US.
+Oversaw functional testing, fraud control validation, and seller KYC workflows. Implemented automation scripts for onboarding and account updates,
+reducing defect leakage by 30%.
